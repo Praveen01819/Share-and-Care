@@ -1,0 +1,52 @@
+.custom-header {
+    background-color: #0011ff; 
+    padding: 20px; 
+    text-align: center;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-left {
+    text-align: left;
+}
+
+.header-title {
+    color: #1bff22; 
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.header-description {
+    color: #b1d8ff; 
+    font-size: 18px;
+}
+
+.header-right {
+    text-align: right;
+}
+
+.header-link {
+    color: #baffac; 
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 20px;
+    transition: color 0.3s ease-in-out; 
+}
+
+.header-link:hover {
+    color: #6bff8e; /* Gold color on hover */
+    text-decoration: underline; /* Underline on hover */
+}
+
+.header-link {
+    padding: 8px; 
+}
+
+.header-link i {
+    margin-right: 8px; 
+}
+
