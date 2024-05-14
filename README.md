@@ -1,6 +1,6 @@
-# FoodShare
+# Share and Care
 
-The FoodShare platform is designed to provide a seamless digital interface for restaurants, grocery stores, and individuals to donate surplus food to local shelters or individuals in need. By doing so, this initiative aims to reduce food wastage while fostering a sense of community responsibility and support. The platform connects donors, recipients, and volunteers to ensure efficient and effective management of food resources.
+The Share and Care platform is designed to provide a seamless digital interface for restaurants, grocery stores, and individuals to donate surplus food to local shelters or individuals in need. By doing so, this initiative aims to reduce food wastage while fostering a sense of community responsibility and support. The platform connects donors, recipients, and volunteers to ensure efficient and effective management of food resources.
 
 ## Table of Contents
 
@@ -58,13 +58,13 @@ Open your browser and go to http://localhost:3000.
 ## Components
 
 ### Dashboard Component
-The Dashboard component in FoodShare serves as the main interface for authenticated users. It includes features such as real-time metrics, a request listing, and an integrated Google Maps view.
+The Dashboard component in Share and Care serves as the main interface for authenticated users. It includes features such as real-time metrics, a request listing, and an integrated Google Maps view.
 
 ### Donation Component
-The Donation component in FoodShare handles the display of donation requests. It provides features for donors, volunteers, and recipients to interact with and manage incoming donation requests. The component is dynamic, adapting its features based on the user's role and the context in which it is used.
+The Donation component in Share and Care handles the display of donation requests. It provides features for donors, volunteers, and recipients to interact with and manage incoming donation requests. The component is dynamic, adapting its features based on the user's role and the context in which it is used.
 
 ### Profile Component
-The Profile component in FoodShare is responsible for displaying user analytics, including personal information, food donation and receipt statistics, and educational content. This component utilizes charts to represent data and provides users with insights into their contributions and activities within the FoodShare platform.
+The Profile component in Share and Care is responsible for displaying user analytics, including personal information, food donation and receipt statistics, and educational content. This component utilizes charts to represent data and provides users with insights into their contributions and activities within the FoodShare platform.
 
 
 
